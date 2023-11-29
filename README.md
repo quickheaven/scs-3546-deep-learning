@@ -1,2 +1,5 @@
-# scs-3546-deep-learning
-Repository dedicated to Term Project of UofT Deep Learning Course
+# Multi-class Classifications  of Malicious URLs using Deep Learning 
+University of Toronto School of Continuing Studies \
+SCS 3546 Deep Learning
+
+
