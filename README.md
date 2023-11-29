@@ -36,7 +36,7 @@ This study reused the [UrlDatasetLoader](https://nbviewer.org/github/quickheaven
 
 The prepared dataset is then exported to CSV files and uploaded to Deep Learning Git repository for use in training.
 
-<img src="./images/Presentation_Dataset.PNG" width="800" height="480" />
+<img src="./images/Presentation_Dataset.PNG" width="600" height="400" />
 
 
 ## Presentation
