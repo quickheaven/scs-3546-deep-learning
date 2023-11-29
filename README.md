@@ -46,7 +46,7 @@ The prepared dataset is then exported to CSV files and uploaded to Deep Learning
 
 ## Presentation
 <a href="https://github.com/quickheaven/scs-3546-deep-learning/blob/e2a7056f56934157f64d9585e623204954355812/Multiclass%20Classification%20of%20Malicious%20URLs%20using%20DL_v2.pptx">
-	<img src="./images/Presentation_Front.PNG" width="800" height="600" />
+	<img src="./images/Presentation_Front.PNG" width="800" height="480" />
 </a>
 
 
