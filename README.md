@@ -12,9 +12,12 @@ Team members:
 
 
 # Introduction
-Artificial Intelligence (AI) and cybersecurity are two of the most rapidly growing sectors in the technology industry. \
-The global AI in cybersecurity market was valued at \$19.2 billion  in 2022 , and is projected to reach \$154.8 billion by 2032, growing at a CAGR of 23.6% from 2023 to 2032. \
+Artificial Intelligence (AI) and cybersecurity are two of the most rapidly growing sectors in the technology industry. 
+
+The global AI in cybersecurity market was valued at \$19.2 billion  in 2022 , and is projected to reach \$154.8 billion by 2032, [growing at a CAGR of 23.6% from 2023 to 2032](https://www.alliedmarketresearch.com/ai-in-cybersecurity-market-A185408). 
+
 The future growth of both AI and cybersecurity is promising and will be critical in the future.
+
 
 # Objective
 This study will explore a lightweight approach to identify and classify malicious URL using deep learning via Keras.
@@ -36,7 +39,7 @@ This study reused the [UrlDatasetLoader](https://nbviewer.org/github/quickheaven
 
 The prepared dataset is then exported to CSV files and uploaded to Deep Learning Git repository for use in training.
 
-<img src="./images/Presentation_Dataset.PNG" width="600" height="400" />
+<img src="./images/Presentation_Dataset.PNG" width="600" height="410" />
 
 
 ## Presentation
